@@ -1,0 +1,6 @@
+[submodule "Sources/Tests/3rdParty/Catch"]
+	path = Sources/Tests/3rdParty/Catch
+	url = git@github.com:philsquared/Catch.git
+[submodule "Sources/Modules/3rdParty/tinyutf8"]
+	path = Sources/Modules/3rdParty/tinyutf8
+	url = git@github.com:bradleygibson/tinyutf8.git
